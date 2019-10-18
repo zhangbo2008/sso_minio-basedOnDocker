@@ -4,8 +4,7 @@
 
 
 使用方法:
-docker pull docker.io/zhangbo2008/minio_saving:v1
-
+docker pull docker.io/zhangbo2008/minio_saving:v2
 然后看/readme  里面的说明使用即可.
 能配置的都配置了.
 
